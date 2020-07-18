@@ -1,0 +1,7 @@
+**/__pycache__
+**/.pytest_cache
+fig/transports
+fig/predictions/compare
+fig/*dataset*/
+datasets
+trained/**/*.pt

@@ -1,0 +1,15 @@
+pymongo
+networkx
+torch_geometric
+torch-scatter==latest+cu101
+torch-sparse==latest+cu101
+pytest
+invoke
+flake8
+mypy
+black>=19.10b0
+isort
+PyPDF2
+mongomock
+psutil
+plotly
